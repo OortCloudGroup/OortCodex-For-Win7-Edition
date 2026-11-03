@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.0/OortCodex-Desktop-win7-x64.exe",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "e140833dcf21d0c599a13eb873cc1fd6e0232fb7",
-  "timestamp": 1793260760196,
-  "sha256hash": "846f841868a238585493101417c8a518a515557853a78ce0e2cf6c367298172f",
-  "logs": "## 1.1.0 \n\n -优化性能  \n\n -修复一些bug "
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.1/OortCodex-Desktop-win7-x64.exe",
+  "name": "1.1.1",
+  "version": "1.1.1",
+  "productVersion": "1.1.1.0",
+  "hash": "67eb510505f74620b019ca16a8eec1642ae564bd",
+  "timestamp": 1793672099959,
+  "sha256hash": "a37f3a11069654bef24edb493b7c75eec6e01723bab8e3402583780613786ec4",
+  "logs": "## 1.1.1 \n\n -订阅模块：完善资源包与会员卡功能  \n\n -修复个人订阅名称误显示为 ID "
 }
