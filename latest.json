@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.1/OortCodex-Desktop-win7-x64.exe",
-  "name": "1.1.1",
-  "version": "1.1.1",
-  "productVersion": "1.1.1.0",
-  "hash": "67eb510505f74620b019ca16a8eec1642ae564bd",
-  "timestamp": 1793672099959,
-  "sha256hash": "a37f3a11069654bef24edb493b7c75eec6e01723bab8e3402583780613786ec4",
-  "logs": "## 1.1.1 \n\n -订阅模块：完善资源包与会员卡功能  \n\n -修复个人订阅名称误显示为 ID "
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.2/OortCodex-Desktop-win7-x64.exe",
+  "name": "1.1.2",
+  "version": "1.1.2",
+  "productVersion": "1.1.2.0",
+  "hash": "a8d17a89e400732aa0502f1d8f7080ebd34f74b6",
+  "timestamp": 1793788866543,
+  "sha256hash": "32fa97dcd212d56b642232984606f2b3a49d019f342e16b934f5e507725f3de0",
+  "logs": "## 1.1.2 \n\n -修复专家状态迁移与首轮会话注入  \n\n -修复一些bug "
 }
